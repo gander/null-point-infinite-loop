@@ -2,6 +2,7 @@
   "name": "@gander/null-point-infinite-loop",
   "displayName": "Null Point Infinite Loop",
   "author": "Adam Gąsowski",
+  "description": "It makes working with Redmine easier",
   "version": "0.0.0",
   "private": true,
   "scripts": {
